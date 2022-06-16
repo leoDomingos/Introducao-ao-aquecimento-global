@@ -15,6 +15,10 @@ Como base para o estudo, foi usado o dataset "World Energy Consumption", dispon�
 
 https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
 
+Para mais informações sobre as colunas desse dataset:
+
+https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv
+
 Para mais informações sobre os diferentes dados usados, acesse o notebook na pasta ./data.
 
 ## Virtual Environment
